@@ -1,0 +1,3 @@
+[submodule "gym-nes"]
+	path = gym-nes
+	url = https://github.com/vipjml/gym-nes.git
